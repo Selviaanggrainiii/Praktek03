@@ -1,4 +1,4 @@
-package praktek03;
+package praktek03;  
 
 public class Sepeda {
     String merk;
